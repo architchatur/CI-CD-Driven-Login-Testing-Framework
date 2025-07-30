@@ -10,7 +10,7 @@ This project automates the login workflow of a sample web application using Pyth
 
 ---
 
-## Tech Stack
+## Tools Used
 
 - **Language**: Python  
 - **Testing Framework**: PyTest  
@@ -19,6 +19,3 @@ This project automates the login workflow of a sample web application using Pyth
 - **CI/CD**: GitHub Actions  
 - **Browser**: Chrome (via WebDriver)
 
----
-
-## Project Structure
